@@ -377,7 +377,6 @@ main {
   main #heroWrap {
     margin-bottom: 2rem; }
   main picture.hero {
-    width: 100%;
     margin: 0 auto; }
   main picture.hero img {
     width: 100%; }
