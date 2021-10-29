@@ -382,7 +382,9 @@ main {
     width: 100%; }
   main picture.subImage {
     margin: 0;
-    float: right; }
+    float: right;
+    display: block;
+    width: 46%; }
   main picture.subImage img {
     width: 100%; }
   main div#founderName {
